@@ -2,6 +2,20 @@
  
 ## Computer Vision course ranging a variety of topics. 
 
+### Topics and Algorithms implemented 
+
+- Color spaces, Projections onto lower dimensional spaces, Least squares optimization for dimensionality reduction.
+
+- Image gradients, convolutions in the frequency domain, Laplacian Pyramid blending for two images, Harris corner detector, Blob Detection, Orientation Estimation.
+
+- Snakes algorithm (Magic Wand Adobie tool), SIFT for feature matching, Geometric transformations for image matching, Homography for image matching.
+
+- Image stiching, blending, and warping to create panoramas, implemented in cartesian, cylindrical, and spherical coordinaes.
+
+- Shi-Tomasi eigenvalue criterion for determining good features to track, Lucas-Kanade optical flow algorithm (using image gradients and autocorrelation matrix), tracking particle filter with histogram backpropagation, MOSSE correlation filter tracker using Bolme et al's paper: Visual Object Tracking using Adaptive Correlation Filters. 
+
+### Topics and Algorithms discussed in class
+
 - Starting with topics in image Formation: Human Vision, Optics, Cameras, Perspective projection, Pinhole camera model, Digital Imaging, Colorspaces, Sampling. 
 
 - Then onto fundamentals of Image Processing: Filters, Edges: Convolutions, Separability, Local operators, Frequency domain and Fourier Transform, Histograms, non-linear (median, bilateral), Pyramids.

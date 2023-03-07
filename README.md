@@ -17,4 +17,4 @@
 - Convolutional Neural Networks: Stereo with NNs, depth estimation from single image, NeRF, Object detection, Region Proposals, R-CNN, SPP, Faster-RCNN, YOLOs, SSD
 
 
-Most of the work here is completed coursework from a Computer Vision Class. The Outline for each notebook was given as an assignment and I was tasked with implementing and understanding all of the concepts shown throughout the different notebooks. The professor for this class is Roy Shilkrot and he is the author of the assignment ideas and outlines for each notebook. 
+The work in this reposity is completed coursework from a Computer Vision Class. The Outline for each notebook was given as an assignment and I was tasked with implementing and understanding all of the concepts/algorithms. The professor for this class is Roy Shilkrot and he is the author of the assignment ideas and outlines for each notebook. 
